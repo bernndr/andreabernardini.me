@@ -1,0 +1,62 @@
+@font-face {
+  font-family: 'SF Mono';
+  font-weight: 400;
+  src: url('SF-Mono-Regular.otf');
+}
+
+body {
+  font-family:'SF Mono', 'Roboto Mono', monospace;
+  background-color: #292c36;
+  color: white;
+}
+
+.main {
+  padding: 0.1em 3em;
+}
+
+.main h1 span.green, h2 {
+  color: #45BB3E;
+}
+
+.main h1 span.white {
+  color: white;
+}
+
+.main h1 span.red {
+  color: #D3232E;
+}
+
+.intro {
+  font-size: 1.2em;
+}
+
+.list {
+  margin-top: 2em;
+  font-size: 1.1em;
+}
+
+.list li {
+  margin-bottom: 2px;
+}
+
+h1 {
+  margin-bottom: -0.4em;
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 1.5em;
+  margin-bottom: -10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a:link, a:visited {
+  color: #00aba5;
+}
+
+a:hover, a.mail:link {
+  color: #8485ce;
+}
