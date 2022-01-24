@@ -6,7 +6,7 @@
 
 body {
   font-family:'SF Mono', 'Roboto Mono', monospace;
-  background-color: #292c36;
+  background-color: #2A2B37;
   color: white;
 }
 
@@ -54,9 +54,9 @@ ul {
 }
 
 a:link, a:visited {
-  color: #00aba5;
+  color: #149C92;
 }
 
 a:hover, a.mail:link {
-  color: #8485ce;
+  color: #746DB0;
 }
